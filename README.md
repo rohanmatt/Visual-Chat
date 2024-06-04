@@ -1,6 +1,5 @@
 # Visual-Chat
 
-# VisualChat: Intelligent Charts and Conversations
 
 VisualChat is a powerful Streamlit application that facilitates insightful data analysis through interactive charts and seamless conversational interactions with data. This README.md file provides an overview of the application's features, setup instructions, and code breakdown.
 
